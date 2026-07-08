@@ -1,4 +1,8 @@
 # Docker Notes
+If an interviewer asked:
+
+**Why Docker?**
+Docker eliminates configuration drift by packaging the application together with its runtime and dependencies. Instead of manually installing software on every server, we build a versioned Docker image once and deploy that same immutable image across development, testing, and production environments. This makes deployments repeatable, simplifies rollbacks, and reduces environment-specific issues.
 
 ## What is Docker?
 
